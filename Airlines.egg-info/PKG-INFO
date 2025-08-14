@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Airlines
+Version: 0.0.1
+Author: rahul b c
+Author-email: rahulbc17@gmail.com
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: ipykernel
+Requires-Dist: flask

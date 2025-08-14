@@ -1,0 +1,9 @@
+[ 2025-08-13 09:54:17,213 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-08-13 09:54:17,239 ] 97 werkzeug - INFO -  * Debugger PIN: 145-846-947
+[ 2025-08-13 09:55:13,856 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:13] "GET / HTTP/1.1" 200 -
+[ 2025-08-13 09:55:14,007 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-08-13 09:55:16,573 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:16] "GET / HTTP/1.1" 200 -
+[ 2025-08-13 09:55:43,531 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2025-08-13 09:55:43,648 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-08-13 09:55:43,880 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-08-13 09:55:44,213 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 09:55:44] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=lt0i9fkqUsTP7W9VgDKc HTTP/1.1" 200 -

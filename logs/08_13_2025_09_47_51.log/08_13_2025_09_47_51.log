@@ -1,0 +1,23 @@
+[ 2025-08-13 09:48:08,256 ] 24 root - INFO - Data ingestion Initiated
+[ 2025-08-13 09:48:08,256 ] 25 root - INFO - Reading the dataset
+[ 2025-08-13 09:48:08,840 ] 28 root - INFO - Creating artifact  directory to store datasets
+[ 2025-08-13 09:48:13,169 ] 37 root - INFO - Data ingestion Completed
+[ 2025-08-13 09:48:13,183 ] 56 root - INFO - Initiated Data Transformaion
+[ 2025-08-13 09:48:13,183 ] 24 root - INFO - Entered Data Transformaion
+[ 2025-08-13 09:48:13,183 ] 25 root - INFO - Separating the numerical and categorical features
+[ 2025-08-13 09:48:13,183 ] 29 root - INFO - Creating pipelines to perform transfromation
+[ 2025-08-13 09:48:13,183 ] 59 root - INFO - Reading the train and test data
+[ 2025-08-13 09:48:15,664 ] 79 root - INFO - Data Transformaion started
+[ 2025-08-13 09:48:17,794 ] 94 root - INFO - Data Transformaion Completed
+[ 2025-08-13 09:48:17,794 ] 17 root - INFO - pkl generation started
+[ 2025-08-13 09:48:17,794 ] 23 root - INFO - pkl generation completed
+[ 2025-08-13 09:48:17,829 ] 24 root - INFO - Assigning x_train,y_train,x_test,y_test values
+[ 2025-08-13 09:48:17,829 ] 31 root - INFO - Listing the models to perform model training
+[ 2025-08-13 09:48:17,829 ] 44 root - INFO - Initialising params to perform Hyper parameter tuning
+[ 2025-08-13 09:48:17,829 ] 65 root - INFO - Evaluation of model started
+[ 2025-08-13 09:49:22,101 ] 48 root - INFO - predicting the model output
+[ 2025-08-13 09:49:22,151 ] 52 root - INFO - Storing r2 score
+[ 2025-08-13 09:49:22,151 ] 75 root - INFO - checking and storing the best model and score
+[ 2025-08-13 09:49:22,151 ] 17 root - INFO - pkl generation started
+[ 2025-08-13 09:49:22,168 ] 23 root - INFO - pkl generation completed
+[ 2025-08-13 09:49:22,168 ] 85 root - INFO - model training completed

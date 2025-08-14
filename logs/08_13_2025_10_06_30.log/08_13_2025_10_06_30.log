@@ -1,0 +1,4 @@
+[ 2025-08-13 10:06:34,690 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-08-13 10:06:34,737 ] 97 werkzeug - INFO -  * Debugger PIN: 145-846-947
+[ 2025-08-13 10:06:39,218 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 10:06:39] "GET / HTTP/1.1" 200 -
+[ 2025-08-13 10:06:41,147 ] 97 werkzeug - INFO - 127.0.0.1 - - [13/Aug/2025 10:06:41] "GET /predict_ticket HTTP/1.1" 200 -
